@@ -4406,6 +4406,7 @@ SpeakStoneSoundLengths_Pack_Cataclysm_Part2 = {
     ["29412_completion.ogg"] = 3.20,
     ["29412_description.ogg"] = 23.44,
     ["29412_progress.ogg"] = 2.64,
+    ["29413_completion.ogg"] = 18.00,
     ["29413_description.ogg"] = 17.00,
     ["29415_completion.ogg"] = 7.12,
     ["29415_description.ogg"] = 17.04,
